@@ -1,0 +1,8 @@
+D:\учеба\ЛР\ООП\paint\paint\bin\Debug\paint.exe
+D:\учеба\ЛР\ООП\paint\paint\bin\Debug\paint.pdb
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.Graph.resources
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.exe
+D:\учеба\ЛР\ООП\paint\paint\obj\Debug\paint.pdb
